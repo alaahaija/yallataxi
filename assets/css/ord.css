@@ -45,7 +45,7 @@ form h3{
     padding: 10px;
     font-family: 'Cairo';
 }
-form input[type=submit]{
+form button{
     padding: 5px;
     width: 150px;
     background-color: black;
